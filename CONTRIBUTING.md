@@ -49,4 +49,4 @@ Vielen Dank für Ihre Unterstützung!
 
 ---
 
-© 2025 [Waterproof Web Wizard GmbH](https://waterproof.agency/) | MIT-Lizenz
+© 2025 [Waterproof Web Wizard GmbH](https://waterproof-web-wizard.de/) | MIT-Lizenz
