@@ -93,7 +93,7 @@ Nach der Installation müssen Sie die Erweiterung konfigurieren:
 
 ### Support
 
-- Issue auf [GitHub](https://github.com/dhuettner/wpww-asana-task-creator/) erstellen
+- Issue auf [GitHub](https://github.com/Waterproof-Web-Wizard-GmbH/wpww-asana-task-creator/) erstellen
 - E-Mail an [hallo@waterproof.agency](mailto:hallo@waterproof.agency)
 - Website: [waterproof-web-wizard.de](https://waterproof-web-wizard.de/)
 
@@ -187,7 +187,7 @@ A Chrome extension that creates Asana tasks with sequential IDs straight from th
 
 ### Support
 
-- Open an issue on [GitHub](https://github.com/dhuettner/wpww-asana-task-creator/)
+- Open an issue on [GitHub](https://github.com/Waterproof-Web-Wizard-GmbH/wpww-asana-task-creator/)
 - Email [hallo@waterproof.agency](mailto:hallo@waterproof.agency)
 - Website: [waterproof-web-wizard.com](https://waterproof-web-wizard.com/)
 
